@@ -44,7 +44,20 @@ In this lab, I explored Security Onion tools by individually installing Zeek and
 - Verified both Zeek and Suricata could successfully process PCAP files and generate relevant logs.
 - Successful log generation confirms legitimate installation and functioning of the tools.
 
+## Skills Demonstrated
+- PCAP File Analysis
+- Network Security Monitoring (NSM)
+- Intrusion Detection System (IDS) Analysis
+- Zeek Log Analysis (conn.log, http.log, files.log)
+- Suricata Alert Analysis (eve.json, fast.log)
+- Signature-Based Threat Detection
+
 ## Conclusion
 Zeek provides detailed network metadata, while Suricata detects security events and alerts. Even without the full Security Onion suite, these two tools allow for network monitoring, threat detection, and traffic analysis, demonstrating core skills in cybersecurity operations and incident investigation.
+
+## Author
+Durga Sai Sri Ramireddy </br>
+Master's student - Cybersecurity </br?
+University Of Houston
 
 *This project was developed as part of academic coursework and expanded for cybersecurity portfolio demonstration.*
