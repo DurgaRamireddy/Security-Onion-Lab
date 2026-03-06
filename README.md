@@ -57,7 +57,7 @@ Zeek provides detailed network metadata, while Suricata detects security events 
 
 ## Author
 Durga Sai Sri Ramireddy </br>
-Master's student - Cybersecurity </br?
+Master's student - Cybersecurity </br>
 University Of Houston
 
 *This project was developed as part of academic coursework and expanded for cybersecurity portfolio demonstration.*
