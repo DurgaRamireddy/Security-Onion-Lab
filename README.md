@@ -46,3 +46,5 @@ In this lab, I explored Security Onion tools by individually installing Zeek and
 
 ## Conclusion
 Zeek provides detailed network metadata, while Suricata detects security events and alerts. Even without the full Security Onion suite, these two tools allow for network monitoring, threat detection, and traffic analysis, demonstrating core skills in cybersecurity operations and incident investigation.
+
+*This project was developed as part of academic coursework and expanded for cybersecurity portfolio demonstration.*
