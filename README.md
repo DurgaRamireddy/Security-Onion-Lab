@@ -105,5 +105,5 @@ Even without the full Security Onion suite, Zeek and Suricata together provide r
 > All analysis was performed in a controlled lab environment using a publicly available PCAP dataset.
 
 **Author:** Durga Sai Sri Ramireddy | MS Cybersecurity, University of Houston  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/durgaramireddy)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/durga-ramireddy)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DurgaRamireddy)
